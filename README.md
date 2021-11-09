@@ -1,4 +1,4 @@
-[Option-6](https://user-images.githubusercontent.com/16778669/140985807-d03a7127-edb6-4a96-bfe4-4149cc37e1a7.png).
+![Option-6](https://user-images.githubusercontent.com/16778669/140985807-d03a7127-edb6-4a96-bfe4-4149cc37e1a7.png).
 
 # Name of your library
 > #### [Poster for your library if available]
@@ -10,7 +10,7 @@
 > Or any other badge with teal color. You can customise your own [here](https://shields.io/#your-badge).
 
 
-> Short (2-5 lines) description of your solution!
+> Short (2-5 lines) description of your solution.
 ## Main features
 > Describe why people should use your library. Ideally, you should show 10x feature why your library is better than competitor's ones
 
